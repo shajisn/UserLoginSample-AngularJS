@@ -7,7 +7,7 @@ version 0.16.0.
 
 # 
 A main controller handle the login module. 
-# A forgot password controller is also added, but not connected in UI.
+  --- A forgot password controller is also added, but not connected in UI.
 
 
 # Add new routes with CLI command 
